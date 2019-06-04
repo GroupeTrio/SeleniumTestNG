@@ -17,13 +17,7 @@ public class BookingFlow {
 		home.run();
 	}
 
-	protected void avaiPageRun() {
-		// todo On ajoutera la classe AVAI - a coder
-	}
-
 	protected void run() {
 		homePageRun();
-		avaiPageRun();
-
 	}
 }
